@@ -9,7 +9,9 @@
 
 <br/>
 
-- **Game Development:** In my spare time, I create games that evoke emotions and immerse players in fascinating worlds. I use these things:
+- **Game Development:** In my spare time, I create games that evoke emotions and immerse players in fascinating worlds.
+  I use these things:
+  
   ![C#](https://img.shields.io/badge/Csharp-%23019EFE.svg?style=for-the-badge&logo=CSharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-%333331b.svg?style=for-the-badge&logo=Unity&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-%23e2711b.svg?style=for-the-badge&logo=Blender&logoColor=white)
 
 ---
